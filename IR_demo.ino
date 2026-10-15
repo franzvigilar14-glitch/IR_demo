@@ -1,3 +1,17 @@
+/*============================================
+                  IR DEMO
+  ============================================
+  Description:
+    This program uses an IR sensor to detect
+    whatever passes by the light. 
+    
+  Programmer:
+    Caberoy, Adrian Miko A.
+    Vigilar, Franz Louis G.
+
+  Date:
+   14 October 2026
+   ------------------------------------------*/
 const int OUT = 2;          
 const int ledPin = 13;     
 
